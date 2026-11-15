@@ -1,0 +1,3 @@
+# Normalise text files to LF line endings in the repository
+# (keeps the script's #! line working on Linux/macOS)
+* text=auto eol=lf
